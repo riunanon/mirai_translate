@@ -1,2 +1,2 @@
-from mirai_translate import Client
-Client.translate("text","en", "ja")
+from mirai_translate import mirai
+mirai.translate("text","en", "ja")
